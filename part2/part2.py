@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# part 2
 # ex1 creating one neuron
 inputs = [1, 2, 3]
 weights = [0.2, 0.8, -0.5]
